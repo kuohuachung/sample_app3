@@ -7,4 +7,4 @@
     sample application.
     </p>
 
-<%= link_to "Sign up now!", "#", :class=>"sign_button round"%>
+<%= link_to "Sign up now!", "#", :class=>"signup_button round"%>
